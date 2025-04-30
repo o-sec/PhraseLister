@@ -1,6 +1,6 @@
 # PhraseLister
 
-**PhraseLister** is a simple and command-line tool that helps you generate targeted wordlists based on user-provided input. useful when you need a custom wordlist to crack passwords that consists of multi words such as : "robertlee123" .
+**PhraseLister** is a simple command-line tool that helps you generate targeted wordlists based on user-provided input. useful when you need a custom wordlist to crack passwords that consists of multi words such as : "robertlee123" .
 
 ## Features
 
